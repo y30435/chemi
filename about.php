@@ -8,17 +8,17 @@
                 <div class="col-lg-12">
                     <hr>
                     <h2 class="intro-text text-center">About
-                        <strong>business casual</strong>
+                        <strong>CHEMI HOUSE</strong>
                     </h2>
                     <hr>
                 </div>
                 <div class="col-md-6">
-                    <img class="img-responsive img-border-left" src="img/slide-2.jpg" alt="">
+                    <img class="img-responsive img-border-left" src="img/chemi2.png" alt="">
                 </div>
                 <div class="col-md-6">
-                    <p>This is a great place to introduce your company or project and describe what you do.</p>
-                    <p>Lid est laborum dolo rumes fugats untras. Etharums ser quidem rerum facilis dolores nemis omnis fugats vitaes nemo minima rerums unsers sadips amets.</p>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
+                    <p>CHEMI HOUSE (케미하우스)는 어쩌구 저쩌구</p>
+                    <p>이러저러 이러저러 하다.</p>
+                    <p>쑥덕쑥덕</p>
                 </div>
                 <div class="clearfix"></div>
             </div>
