@@ -1,5 +1,5 @@
 <?php
-	require("include/head.inc");
+	require("include/header.inc");
 ?>
     <div class="container">
 
